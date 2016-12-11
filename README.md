@@ -10,11 +10,18 @@ Many frameworks insist you create a Plunker to submit an issue, but don't give y
 ## AngularJS/Angular 1
 
 ### AngularJS
-
+URL: Coming Soon
 
 ### Angular UI
-
-
-
+URL: Coming Soon
 
 ## Angular2
+
+### Angular2
+URL: Coming Soon
+
+### ng2-boostrap
+URL: Coming Soon
+
+### angular-maps
+URL: Coming Soon
